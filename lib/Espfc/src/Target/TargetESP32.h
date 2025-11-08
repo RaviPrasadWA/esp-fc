@@ -8,7 +8,7 @@
 #define ESPFC_OUTPUT_1 25
 #define ESPFC_OUTPUT_2 4
 #define ESPFC_OUTPUT_3 12
-#define ESPFC_OUTPUT_4 -1
+#define ESPFC_OUTPUT_4 15
 #define ESPFC_OUTPUT_5 -1
 #define ESPFC_OUTPUT_6 -1
 #define ESPFC_OUTPUT_7 -1
@@ -59,7 +59,7 @@
 
 #define ESPFC_I2C_0
 #define ESPFC_I2C_0_SCL 22
-#define ESPFC_I2C_0_SDA 21
+#define ESPFC_I2C_0_SDA 14
 #define ESPFC_I2C_0_SOFT
 
 #define ESPFC_BUZZER_PIN 26
